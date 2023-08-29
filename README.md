@@ -1,4 +1,4 @@
-# projetoW novo dao uma olhada ai
- primeiro repositorio do curso Github warley
+# projetoW tentando modificar a plataforma githyb
+ Repositorio em github
 
- Repositorio criando durante uma aula, 2023
+ conhecimento 2023
